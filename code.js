@@ -153,7 +153,7 @@ const countryList = {
   UZS: "UZ",
   VEF: "VE",
   VND: "VN",
-  VUV: "VU",
+  VU: "VU",
   YER: "YE",
   ZAR: "ZA",
   ZMK: "ZM",
